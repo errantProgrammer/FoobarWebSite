@@ -1,0 +1,16 @@
+.FoobarSocietyTitle{
+    text-align: center;
+    font-family: 'Oxygen','Serif';
+    width: 1000px;
+}
+
+.icon{
+    width: 100px;
+    height:100px;
+}
+
+.viewDiv{
+    
+    border-color: black;
+    border-style: solid;
+}
